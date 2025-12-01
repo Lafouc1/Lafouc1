@@ -26,3 +26,5 @@ Outils : Git, Docker, Visual Studio Code, VirtualBox
 Systèmes : Linux, Windows
 
 Sécurité informatique : notions et projets en TryHackMe
+
+[GIF](https://tenor.com/fr/view/bruce-almighty-comedy-jim-carrey-angry-typing-gif-3479485)
