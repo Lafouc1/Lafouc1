@@ -27,5 +27,6 @@ Systèmes : Linux, Windows
 
 Sécurité informatique : notions et projets en TryHackMe
 
-<img src="https://tenor.com/fr/view/bruce-almighty-comedy-jim-carrey-angry-typing-gif-3479485" alt="GIF" />
+![GIF](https://media1.tenor.com/m/PqJ7yMX9GFoAAAAC/bruce-almighty-comedy.gif)
+
 
