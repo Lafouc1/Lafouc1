@@ -9,7 +9,7 @@ _| """"|_|"""""|_|"""""|_|"""""|_|"""""| {======|_|"""""|_|"""""|_|"""""| {=====
 
 🎓 Actuellement : étudiant
 
-💼 Je crée des projets autour du développement (pour l'instant)
+💼 Je crée des projets autour du développement 
 
 🔭 En ce moment, je travaille sur mes objectifs de vie
 
